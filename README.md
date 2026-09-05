@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karylle</h1>
-<h3 align="center">Soon to be a junior web developer💜 from PINAS 💪🏻</h3>
+<h3 align="center">Soon to be a junior web developer eyy💜 from PINAS 💪🏻</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akaisyne" alt="akaisyne" /></a> </p>
 
