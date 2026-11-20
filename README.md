@@ -5,41 +5,47 @@
 <h1 align="center">
   <img src="./assets/name.svg" alt="Karylle" width="260">
 </h1>
+
 <h3 align="center">Developer &nbsp;|&nbsp; Laravel &amp; ASP.NET Core</h3>
+
+---
 
 ## About Me
 
-I'm a developer who loves building clean, secure, and practical business systems, from point-of-sale and inventory tools to booking platforms, while learning and growing one project at a time.
+I build web systems that keep small businesses organized, from point-of-sale and inventory to booking and reporting. I enjoy the behind-the-scenes work too: access control, security, documentation, and getting the data logic right.
 
 ---
 
 ## Tech Stack
 
+**Backend & Frameworks**
+
+[![Backend](https://skillicons.dev/icons?i=laravel,php,dotnet,cs&theme=light)](https://skillicons.dev)
+
 **Frontend**
 
-[![Frontend](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,alpinejs&theme=light)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,alpinejs&theme=light)](https://skillicons.dev)
 
-**Backend & Languages**
+**Databases**
 
-[![Backend](https://skillicons.dev/icons?i=php,laravel,cs,dotnet&theme=light)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mysql,mssql&theme=light)](https://skillicons.dev)
 
-**Database**
+**Tools & Hosting**
 
-[![Database](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github&theme=light)](https://skillicons.dev)
 
-**Tools**
-
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode&theme=light)](https://skillicons.dev)
 
 ---
 
 ## Let's Connect
 
-- LinkedIn: [linkedin.com/in/karylle-pilapil-ba8816384](https://linkedin.com/in/karylle-pilapil-ba8816384)
-- Email: [karylleticopilapil@gmail.com](mailto:karylleticopilapil@gmail.com)
-
----
+- 💼 LinkedIn: [linkedin.com/in/karylle-pilapil-ba8816384](https://www.linkedin.com/in/karylle-pilapil-ba8816384/)
+- ✉️ Email: [karylleticopilapil@gmail.com](mailto:karylleticopilapil@gmail.com)
 
 <p align="center">
-  ⋆˙⟡ Thanks for visiting! ⟡˙⋆
+  ☕ Thanks for stopping by!
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="" />
 </p>
